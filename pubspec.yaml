@@ -1,7 +1,7 @@
 name: mnemonic_phrase
 description: Displays a mnemonic phrase / Allows users to provide a mnemonic phrase.
 version: 0.1.0
-homepage:
+repository: https://github.com/augmity/mnemonic_phrase
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
